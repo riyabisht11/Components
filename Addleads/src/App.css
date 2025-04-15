@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+.CircularProgressbar-path {
+  stroke: orange;
+}
